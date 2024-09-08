@@ -1,0 +1,17 @@
+__pycache__/
+build/
+dist/
+.env
+.vscode/
+test/
+*.txt
+!requirements.txt
+*.csv
+*.xlsx
+*.spec
+*.exe
+*.db
+*.mp4
+*.png
+*.html
+mssql-test/
